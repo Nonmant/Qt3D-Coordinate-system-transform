@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/axes.obj</file>
+        <file>models/axes.webp</file>
+        <file>models/axesBase.webp</file>
+    </qresource>
+</RCC>
